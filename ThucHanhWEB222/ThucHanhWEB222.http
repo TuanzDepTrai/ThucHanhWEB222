@@ -1,0 +1,6 @@
+@ThucHanhWEB222_HostAddress = http://localhost:5108
+
+GET {{ThucHanhWEB222_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
